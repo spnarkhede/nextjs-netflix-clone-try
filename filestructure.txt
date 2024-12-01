@@ -45,5 +45,11 @@
             |-- [id]
                 |-- movie-details.tsx
                 |-- page.tsx
+    |-- components
+        |-- icons
+            |-- netflix.tsx
+        |-- movies
+        |-- navigation
+        |-- ui
 |-- tailwind.config.ts
 |-- tsconfig.json
