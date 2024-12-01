@@ -46,6 +46,7 @@
                 |-- movie-details.tsx
                 |-- page.tsx
     |-- components
+        |-- footer.tsx
         |-- icons
             |-- netflix.tsx
         |-- movies
@@ -54,6 +55,7 @@
             |-- movie-trailer.tsx
         |-- navigation
             |-- navigation-bar.tsx
+        |-- theme-provider.tsx
         |-- ui
             |-- accordion.tsx
             |-- alert-dialog.tsx
@@ -102,5 +104,7 @@
             |-- toggle-group.tsx
             |-- toggle.tsx
             |-- tooltip.tsx
+    |-- hooks
+        |-- use-toast.ts
 |-- tailwind.config.ts
 |-- tsconfig.json
