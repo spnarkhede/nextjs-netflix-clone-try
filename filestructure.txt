@@ -49,6 +49,9 @@
         |-- icons
             |-- netflix.tsx
         |-- movies
+            |-- content-slider.tsx
+            |-- movie-card.tsx
+            |-- movie-trailer.tsx
         |-- navigation
         |-- ui
 |-- tailwind.config.ts
